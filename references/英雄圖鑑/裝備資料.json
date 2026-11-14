@@ -1,0 +1,12 @@
+[
+  {
+    "name": "死神鐮刀",
+    "type": "裝備被動",
+    "mechanic": "受到致命傷害時可免死，短暫受到保護。",
+    "source": "https://moba.garena.tw/news/show/536",
+    "replay_check": "同步看底部裝備／狀態圖示、血條和角色自身免死期；持有裝備、觸發被動和大招落地要分開確認。",
+    "confirmed_examples": [
+      595
+    ]
+  }
+]
